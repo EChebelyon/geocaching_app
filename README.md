@@ -1,1 +1,1 @@
-# geocaching_app
+In this repo, I learn how to build a geocaching app from reading Pablo Carreira's book on Geospatial Development [https://www.amazon.com/Geospatial-Development-Example-Python-Carreira/dp/1785282352/ref=sr_1_3?crid=10MGQQQNTO9D0&dchild=1&keywords=python+geospatial+development&qid=1601930320&sprefix=geospatial+de%2Caps%2C364&sr=8-3] (link to book)
