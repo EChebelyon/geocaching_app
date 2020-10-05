@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>geopy.s3.amazonaws.com</Endpoint><Bucket>geopy</Bucket><RequestId>E0165AD2B9A3E3DA</RequestId><HostId>rwxv69g9hC1GThHVpvzN1SuR+fAup9pfPV83hX8VWAkBK9YltcGmC8IwMaic8208SDtBnjn2SS0=</HostId></Error>
